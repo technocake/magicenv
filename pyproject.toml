@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "magicenv"
-version = "0.1.0"
+version = "0.1.1"
 description = "Simple way to parse common datatypes from env vars."
 authors = ["technocake <robin.garen@gmail.com>"]
 keywords = ["env", "magic"]
